@@ -1,5 +1,5 @@
 # Porfolio-Guide-
-In this repository, I take you through the different projects in my portfolio
+In this repository, I take you through the different projects in my portfolio.
 
 ## Table of Contents
 
