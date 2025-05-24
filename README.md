@@ -10,6 +10,12 @@ In this repository, I take you through the different projects in my portfolio
 <li> Java </li> 
 </ul>
 
+## R
+
+| Code Link | Area of Analysis | Project Description | Project Output |
+| --------- | ---------------- | ------------------- | -------------------- |
+
+
 ## SQL 
 | Code Link | Area of Analysis | Project Description | Project Output |
 | --------- | ---------------- | ------------------- | -------------------- |
