@@ -7,14 +7,13 @@ In this repository, I take you through the different projects in my portfolio.
 <li> R </li>
 <li> Tableu </li>
 <li> SQL </li>
-<li> Java </li> 
 </ul>
 
 ## R
 
 | Code Link | Area of Analysis | Project Description | Project Output |
 | --------- | ---------------- | ------------------- | -------------------- |
-| [HeartFailure.R](https://github.com/afgai/R-projects/blob/main/HeartFailure.R) | Data Cleaning and Visualization |  Heart Failure Data: Using a dataset that contains the medical records of 299 patients  who had heart failure, I've used R to clean this data and to visualize the the correlation between diabetes and high blood pressure on the deathe event of these patients | xx |
+| [HeartFailure.R](https://github.com/afgai/R-projects/blob/main/HeartFailure.R) | Data Cleaning and Visualization |  Heart Failure Data: Using a dataset that contains the medical records of 299 patients  who had heart failure, I've used R to clean this data and to visualize the the correlation between diabetes and high blood pressure on the deathe event of these patients | [Project Output](https://github.com/afgai/Heart-Failure/blob/main/README.md) |
 | [ObesityLevels.R](https://github.com/afgai/R-projects/blob/main/ObesityLevels.R) | Data Cleaning and Visualization | Obesity Levels Data: Using data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition, we visualize how these habits seem to affect obesity levels. | [Project Output](https://github.com/afgai/R-projects/blob/main/README.md) |
 
 ## SQL 
