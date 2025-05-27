@@ -14,7 +14,7 @@ In this repository, I take you through the different projects in my portfolio.
 
 | Code Link | Area of Analysis | Project Description | Project Output |
 | --------- | ---------------- | ------------------- | -------------------- |
-
+| [HeartFailure.R](https://github.com/afgai/R-projects/blob/main/HeartFailure.R) | Data Cleaning and Visualization |  Using a dataset that contains the medical records of 299 patients  who had heart failure, I've used R to clean this data and to visualize the the correlation between diabetes and high blood pressure on the deathe event of these patients | xx |
 
 ## SQL 
 | Code Link | Area of Analysis | Project Description | Project Output |
